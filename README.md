@@ -24,7 +24,8 @@ This Power BI project provides a comprehensive analysis of a bank loan dataset t
 
 ## 📁 Files Included
 
-- `Bank_Loan_Dashboard.pbix` – Power BI dashboard file  
+- `Bank_Loan_Dashboard.pbix` – Power BI dashboard file
+- LOAN_PORTFOLIO_SQL QUERY
 - `financial_loan.csv` – Source data used in the report
 
 ---
